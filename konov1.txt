@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 kirill sergeevich1
-=======
+
 kirill sergeevi
->>>>>>> newdev
+
